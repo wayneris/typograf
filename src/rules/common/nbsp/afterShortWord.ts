@@ -24,7 +24,7 @@ export const afterShortWordRule: TypografRule<{
             .replace(re, newSubStr);
     },
     settings: {
-        lengthShortWord: 2,
+        lengthShortWord: 3,
         useShortWordList: false,
     },
 };
