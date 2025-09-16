@@ -13,7 +13,7 @@
 | 9. | [common/nbsp/afterNumber](../src/rules/common/nbsp/afterNumber.ts) | Нераз. пробел между числом и словом | 510 | default |  |
 | 10. | [common/nbsp/afterParagraphMark](../src/rules/common/nbsp/afterParagraphMark.ts) | Нераз. пробел после ¶ | 510 | default | ✓ |
 | 11. | [common/nbsp/afterSectionMark](../src/rules/common/nbsp/afterSectionMark.ts) | Нераз. узкий пробел после § | 510 | default | ✓ |
-| 12. | [common/nbsp/afterShortWord](../src/rules/common/nbsp/afterShortWord.ts) | Нераз. пробел после короткого слова | 510 | default | ✓ |
+| 12. | [common/nbsp/afterShortWord](../src/rules/common/nbsp/afterShortWord.ts) | Нераз. пробел после короткого слова (от 1 до 3 символов) | 510 | default | ✓ |
 | 13. | [common/nbsp/beforeShortLastNumber](../src/rules/common/nbsp/beforeShortLastNumber.ts) | Нераз. пробел перед числом (не более 2 цифр) в конце предложения | 510 | default | ✓ |
 | 14. | [common/nbsp/beforeShortLastWord](../src/rules/common/nbsp/beforeShortLastWord.ts) | Нераз. пробел перед последним коротким словом в предложении | 510 | default | ✓ |
 | 15. | [common/nbsp/dpi](../src/rules/common/nbsp/dpi.ts) | Нераз. пробел перед lpi и dpi | 510 | default | ✓ |
